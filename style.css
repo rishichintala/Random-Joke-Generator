@@ -54,3 +54,13 @@ button{
     cursor: pointer;
     outline: none;
 }
+footer {
+    background-color: #82954B;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer .fa-heart {
+    color: red;
+}
